@@ -1,0 +1,13 @@
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.exe
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.deps.json
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.runtimeconfig.json
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.runtimeconfig.dev.json
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.dll
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\bin\Debug\netcoreapp3.1\C# Zadaci sa neta.pdb
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.csprojAssemblyReference.cache
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.AssemblyInfoInputs.cache
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.AssemblyInfo.cs
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.csproj.CoreCompileInputs.cache
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.dll
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.pdb
+C:\Users\d.borota\Desktop\C# Zadaci sa neta\obj\Debug\netcoreapp3.1\C# Zadaci sa neta.genruntimeconfig.cache
